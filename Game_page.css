@@ -1,0 +1,17 @@
+.game1 {
+        float: left;
+        height: auto;
+        width: 20%;
+    }
+
+.game2 {
+    float: right;
+    height: auto;
+    width: 30%;
+}
+
+.game3 {
+    float: left;
+    height: auto;
+    width: 30%;
+}

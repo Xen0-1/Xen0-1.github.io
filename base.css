@@ -1,0 +1,21 @@
+ body {
+        background-color: rgb(0, 0, 0);
+    }
+
+    .topbar {
+        text-align: center;
+    }
+
+    .topbar a:hover {
+        color:yellow
+    }
+
+    p { font-size: larger;
+        text-align: center;
+        color: white;
+    }
+
+    a {
+        color: white;
+        
+    }
